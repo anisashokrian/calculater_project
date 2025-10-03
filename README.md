@@ -1,1 +1,3 @@
 # calculater_project
+this project is like a calculater
+it has lots of things.like : "+", "=" and ......
